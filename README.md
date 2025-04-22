@@ -1,1 +1,3 @@
-# -Cryptocurrency-Prices-Prediction
+Cryptocurrency price forecasting is becoming a vital research subject in the context of a fast-growing digital economy. This particular project intends to implement time series analysis methods to model and predict the closing prices of significant cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), Cardano (ADA), and Dogecoin (DOGE).
+Objective : Achieve reliable accuracy in predicting the future price of cryptocurrencies by developing statistical models on their historical price datasets.
+Problem Statement: The unpredictable volatility together with the non-linear nature of the crypto market makes forecasting price movements extremely difficult. This project explores the use classical time series methods to address the problem.
